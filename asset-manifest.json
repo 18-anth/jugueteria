@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jugueteria/static/css/main.24e11387.css",
-    "main.js": "/jugueteria/static/js/main.3a0bd99e.js",
+    "main.js": "/jugueteria/static/js/main.3950f9d6.js",
     "static/js/787.c4738e17.chunk.js": "/jugueteria/static/js/787.c4738e17.chunk.js",
     "index.html": "/jugueteria/index.html",
     "main.24e11387.css.map": "/jugueteria/static/css/main.24e11387.css.map",
-    "main.3a0bd99e.js.map": "/jugueteria/static/js/main.3a0bd99e.js.map",
+    "main.3950f9d6.js.map": "/jugueteria/static/js/main.3950f9d6.js.map",
     "787.c4738e17.chunk.js.map": "/jugueteria/static/js/787.c4738e17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24e11387.css",
-    "static/js/main.3a0bd99e.js"
+    "static/js/main.3950f9d6.js"
   ]
 }
